@@ -1,5 +1,6 @@
 # QR Code Generator
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/JPGBMR/qr-generator)
 This is a Python application built with Tkinter for generating QR codes from user-provided text or URLs. The generated QR codes can be saved as image files for sharing or storage.
 
 ## Features
@@ -17,3 +18,13 @@ This is a Python application built with Tkinter for generating QR codes from use
    ```bash
    pip install -r requirements.txt
 
+
+## Getting Started
+
+```bash
+pip install -r requirements.txt
+python main.py
+```
+
+---
+*Part of the [JPGBMR](https://github.com/JPGBMR) open-source portfolio.*
